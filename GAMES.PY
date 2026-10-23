@@ -39,7 +39,7 @@ def start_game():
             print(f"\n[SUCCESS] Node bypassed! Siphoned ${credits_earned} from data packets.")
             print(f"[WARNING] Traces left. Alert increased by +{added_alert}%.")
 
-       
+       #hello niggas
         elif choice == "2":
             print("\n[ALERT] Bypassing security matrix... Enter the override code!")
            
