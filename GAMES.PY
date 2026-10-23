@@ -10,7 +10,7 @@ def start_game():
   
     alert_level = 0
     database_breached = False
-    
+    #learning git with vscode.
     print("=" * 50)
     print(" SYSTEM INITIALIZED: WELCOME BACK, NETRUNNER. ")
     print("=" * 50)
@@ -64,7 +64,7 @@ def start_game():
                 alert_level += 40
                 print(f"\n[BREACH FAILED] Security protocol triggered! Heavy tracing. Alert jumped +40%.")
 
-     
+    
         elif choice == "3":
             if player_credits >= 50:
                 player_credits -= 50
